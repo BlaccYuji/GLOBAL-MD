@@ -9,7 +9,7 @@ global.socialm = "https://whatsapp.com/channel/0029Va8VuWo4o7qRFa9pEF47" //ur gi
 global.location = "Lagos, Nigeria" //ur location
 
 //new
-global.botname = '🅦🅔🅔🅑™-𝐌𝐃' //ur bot name
+global.botname = '© 𝐆𝐋𝐎𝐁𝐀𝐋-𝐌𝐃' //ur bot name
 global.ownernumber = ['2348153995521'] //ur owner number, dont add more than one
 global.ownername = 'BlacYuji' //ur owner name
 global.websitex = "https://whatsapp.com/channel/0029Va8VuWo4o7qRFa9pEF47"
