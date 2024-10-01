@@ -21,7 +21,7 @@ global.packname = "Sticker By"
 global.author = "🅦🅔🅔🅑™"
 global.creator = "2348153995521@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["+2348153995521"] // Premium User
+global.premium = ["2348153995521"] // Premium User
 
 //channel id
 global.xchannel = {
